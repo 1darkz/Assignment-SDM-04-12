@@ -1,0 +1,36 @@
+{
+  "frutas": {
+    "maçã": "maçã",
+    "pera": "pera",
+    "banana": "banana",
+    "goiaba": "goiaba",
+    "amora": "amora",
+    "limao": "limao"
+  },
+  "filmes": [
+    {
+      "id": "filme-01",
+      "titulo": "O Poderoso Chefão",
+      "ano": "1972",
+      "genero": "Drama"
+    },
+    {
+      "id": "filme-02",
+      "titulo": "The Matrix",
+      "ano": "1999",
+      "genero": "Ação"
+    },
+    {
+      "id": "filme-03",
+      "titulo": "Interestelar",
+      "ano": "2014",
+      "genero": "Ficção Científica"
+    },
+    {
+      "id": "filme-04",
+      "titulo": "Bastardos Inglórios",
+      "ano": "2009",
+      "genero": "Aventura"
+    }
+  ]
+}
